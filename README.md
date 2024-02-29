@@ -2,8 +2,7 @@
 
 ## **About this repository:**
 
-* This repository is dedicated to my STATS 220 class.
-* This repository will document my learning in STATS 220 throughout Semester One of 2024 at the University of Auckland.
+* This repository will document my learning in my STATS 220 class throughout Semester One of 2024 at the University of Auckland.
 
 ## **Important links:**
 
